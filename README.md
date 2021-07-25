@@ -16,6 +16,8 @@ Here are a few projects i did:
 
 [Library](https://peterplevko.github.io/Library/)
 
+[Restaurant Page](https://peterplevko.github.io/Restaurant-Page/)
+
 Here are a few certificates i earned: 
 
 [Certificates](https://github.com/PeterPlevko/Certificates)

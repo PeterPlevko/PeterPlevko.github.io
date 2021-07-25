@@ -1,12 +1,32 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PeterPlevko/PeterPlevko.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello my name is Peter Plevko and currently i am studying bachelor in computer science. My university is Slovak University of Technology in Bratislava and my faculty is Faculty of Informatics and Information Technologies. 
 
-[My take on google home page](https://peterplevko.github.io/Google-Home-Page/)
+Here are a few projects i did: 
 
-[My take on rock paper scissors](https://peterplevko.github.io/Rock-Paper-Scissors/)
+[Tic Tac Toe](https://peterplevko.github.io/Tic-Tac-Toe/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Google Home Page](https://peterplevko.github.io/Google-Home-Page/)
+
+[Etch A Sketch](https://peterplevko.github.io/Etch-a-Sketch/)
+
+[Calculator](https://peterplevko.github.io/Calculator/)
+
+[Rock Paper Scissors](https://peterplevko.github.io/Rock-Paper-Scissors/)
+
+[Library](https://peterplevko.github.io/Library/)
+
+Here are a few certificates i earned: 
+
+[Certificates](https://github.com/PeterPlevko/Certificates)
+
+Here is everything i did until now in my university: 
+
+[University](https://github.com/PeterPlevko/STU-FIIT)
+
+Here is everything i did until now in my High School: 
+
+[High School](https://github.com/PeterPlevko/Gymnazium-JMH-Cadca)
 
 ### Markdown
 
@@ -30,12 +50,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PeterPlevko/PeterPlevko.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

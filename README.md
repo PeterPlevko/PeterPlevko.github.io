@@ -26,6 +26,6 @@ Here is everything i did until now in my university:
 
 [University](https://github.com/PeterPlevko/STU-FIIT)
 
-Here is everything i did until now in my University: 
+Here is everything i did until now in my High school
 
 [High School](https://github.com/PeterPlevko/Gymnazium-JMH-Cadca)

@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
-
 Hello my name is Peter Plevko and currently i am studying bachelor in computer science. My university is Slovak University of Technology in Bratislava and my faculty is Faculty of Informatics and Information Technologies. 
 
 Here are a few projects i did: 
 
-[Tic Tac Toe](https://peterplevko.github.io/Tic-Tac-Toe/)
-
-[Google Home Page](https://peterplevko.github.io/Google-Home-Page/)
+[Tic Tac Toe](https://peterplevko.github.io/Tic-Tac-Toe/) [Google Home Page](https://peterplevko.github.io/Google-Home-Page/)
 
 [Etch A Sketch](https://peterplevko.github.io/Etch-a-Sketch/)
 

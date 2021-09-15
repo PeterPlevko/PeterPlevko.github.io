@@ -2,15 +2,9 @@ Hello my name is Peter Plevko and currently i am studying bachelor in computer s
 
 Here are a few projects i did: 
 
-[Tic Tac Toe](https://peterplevko.github.io/Tic-Tac-Toe/) [Google Home Page](https://peterplevko.github.io/Google-Home-Page/)
-
-[Etch A Sketch](https://peterplevko.github.io/Etch-a-Sketch/)
-
-[Calculator](https://peterplevko.github.io/Calculator/)
-
-[Rock Paper Scissors](https://peterplevko.github.io/Rock-Paper-Scissors/)
-
-[Library](https://peterplevko.github.io/Library/)
+[Tic Tac Toe](https://peterplevko.github.io/Tic-Tac-Toe/) | [Google Home Page](https://peterplevko.github.io/Google-Home-Page/)
+[Etch A Sketch](https://peterplevko.github.io/Etch-a-Sketch/) | [Calculator](https://peterplevko.github.io/Calculator/)
+[Rock Paper Scissors](https://peterplevko.github.io/Rock-Paper-Scissors/) | [Library](https://peterplevko.github.io/Library/)
 
 [Restaurant Page](https://peterplevko.github.io/Restaurant-Page/)
 

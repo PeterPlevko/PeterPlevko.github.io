@@ -2,7 +2,7 @@ Hello my name is Peter Plevko and currently i am studying bachelor in computer s
 
 Here are a few projects i did: 
 
-[Tic tac toe](https://github.com/PeterPlevko/Tic-tac-toe) | [Google home page](https://peterplevko.github.io/Google-Home-Page/)
+[Tic tac toe](https://github.com/PeterPlevko/Tic-tac-toe) [Python](https://github.com/PeterPlevko/Python)
 [Etch a sketch](https://peterplevko.github.io/Etch-a-Sketch/) | [Calculator](https://peterplevko.github.io/Calculator/)
 [Rock paper scissors](https://peterplevko.github.io/Rock-Paper-Scissors/) | [Library](https://peterplevko.github.io/Library/)
 [Restaurant page](https://peterplevko.github.io/Restaurant-Page/) | [Shopping cart](https://github.com/PeterPlevko/Shopping-cart)
@@ -14,7 +14,7 @@ Here are a few projects i did:
 [Todo list](https://github.com/PeterPlevko/Todo-list) | [Youtube clone](https://github.com/PeterPlevko/Youtube-clone)
 [Responsive design](https://github.com/PeterPlevko/Responsive-design) | [Smashing magazine](https://github.com/PeterPlevko/Smashing-magazine)
 [Old apple website](https://github.com/PeterPlevko/Old-apple-website) | [The new york times](https://github.com/PeterPlevko/The-new-york-times)
-[Form](https://github.com/PeterPlevko/Form) | [Python](https://github.com/PeterPlevko/Python)
+[Form](https://github.com/PeterPlevko/Form)
 
 Here are a few certificates i earned: 
 

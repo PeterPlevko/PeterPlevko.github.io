@@ -1,6 +1,6 @@
 Hello my name is Peter Plevko and currently I am studying bachelor in computer science. My university is Slovak University of Technology in Bratislava and my faculty is Faculty of Informatics and Information Technologies. 
 
-Here are a few projects i did: 
+Here are a few projects I did: 
 
 [Tic tac toe](https://github.com/PeterPlevko/Tic-tac-toe) | [Python](https://github.com/PeterPlevko/Python)
 [Etch a sketch](https://peterplevko.github.io/Etch-a-Sketch/) | [Calculator](https://peterplevko.github.io/Calculator/)
@@ -16,15 +16,15 @@ Here are a few projects i did:
 [Old apple website](https://github.com/PeterPlevko/Old-apple-website) | [The new york times](https://github.com/PeterPlevko/The-new-york-times)
 [Form](https://github.com/PeterPlevko/Form) | [Inventory app](https://github.com/PeterPlevko/Inventory-app)
 
-Here are a few certificates i earned: 
+Here are a few certificates I earned: 
 
 [Certificates](https://github.com/PeterPlevko/Certificates)
 
-Here is everything i did until now in my university: 
+Here is everything I did until now in my university: 
 
 [University](https://github.com/PeterPlevko/STU-FIIT)
 
-Here is everything i did until now in my High school
+Here is everything I did until now in my High school
 
 [Gymnasium](https://github.com/PeterPlevko/Gymnazium-JMH-Cadca)
 

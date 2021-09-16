@@ -14,7 +14,7 @@ Here are a few projects i did:
 [Todo list](https://github.com/PeterPlevko/Todo-list) | [Youtube clone](https://github.com/PeterPlevko/Youtube-clone)
 [Responsive design](https://github.com/PeterPlevko/Responsive-design) | [Smashing magazine](https://github.com/PeterPlevko/Smashing-magazine)
 [Old apple website](https://github.com/PeterPlevko/Old-apple-website) | [The new york times](https://github.com/PeterPlevko/The-new-york-times)
-[Form](https://github.com/PeterPlevko/Form) | [Inventory app] (https://github.com/PeterPlevko/Inventory-app)
+[Form](https://github.com/PeterPlevko/Form) | [Inventory app](https://github.com/PeterPlevko/Inventory-app)
 
 Here are a few certificates i earned: 
 

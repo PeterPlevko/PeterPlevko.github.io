@@ -26,4 +26,4 @@ Here is everything i did until now in my university:
 
 Here is everything i did until now in my High school
 
-[High School](https://github.com/PeterPlevko/Gymnazium-JMH-Cadca)
+[Gymnasium](https://github.com/PeterPlevko/Gymnazium-JMH-Cadca)

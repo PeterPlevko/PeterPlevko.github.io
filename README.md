@@ -15,7 +15,6 @@ Here are a few projects i did:
 [Responsive design](https://github.com/PeterPlevko/Responsive-design) | [Smashing magazine](https://github.com/PeterPlevko/Smashing-magazine)
 [Old apple website](https://github.com/PeterPlevko/Old-apple-website) | [The new york times](https://github.com/PeterPlevko/The-new-york-times)
 [Form](https://github.com/PeterPlevko/Form) | [Inventory app (]https://github.com/PeterPlevko/Inventory-app)
-[Testing practice] (https://github.com/PeterPlevko/Testing-practice)
 
 Here are a few certificates i earned: 
 

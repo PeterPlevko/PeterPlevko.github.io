@@ -1,4 +1,4 @@
-Hello my name is Peter Plevko and currently i am studying bachelor in computer science. My university is Slovak University of Technology in Bratislava and my faculty is Faculty of Informatics and Information Technologies. 
+Hello my name is Peter Plevko and currently I am studying bachelor in computer science. My university is Slovak University of Technology in Bratislava and my faculty is Faculty of Informatics and Information Technologies. 
 
 Here are a few projects i did: 
 

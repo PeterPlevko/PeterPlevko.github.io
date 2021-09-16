@@ -16,7 +16,6 @@ Here are a few projects i did:
 [Old apple website](https://github.com/PeterPlevko/Old-apple-website) | [The new york times](https://github.com/PeterPlevko/The-new-york-times)
 [Form](https://github.com/PeterPlevko/Form) | [Inventory app](https://github.com/PeterPlevko/Inventory-app)
 
-
 Here are a few certificates i earned: 
 
 [Certificates](https://github.com/PeterPlevko/Certificates)

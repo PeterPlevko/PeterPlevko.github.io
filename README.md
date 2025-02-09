@@ -1,4 +1,4 @@
-I'm a recent graduate from FIIT STU with a focus on frontend development, specializing in technologies such as Vue.js and Angular.js. During my studies, I worked on various projects and held several positions, gaining hands-on experience with web development using React, Express, Angular, Koa.js, and MongoDB. Additionally, I have experience as a DevOps Engineer, automating infrastructure deployment with Terraform on AWS, and working with Docker, CI/CD, and Kubernetes.
+I completed my engineering studies at FIIT STU. In addition to academic projects, I have also worked in various positions and projects. I focus mainly on frontend development and TypeScript, specifically with the Vue and Angular frameworks.
 
 My technical stack includes proficiency in programming languages like JavaScript, TypeScript, Python, Java, and PHP. In web development, I am skilled in HTML, CSS, Bootstrap, and Tailwind, and have experience managing databases such as PostgreSQL, MongoDB, and Neo4j. I'm well-versed in version control systems like Microsoft Azure, Git, and GitLab.
 
